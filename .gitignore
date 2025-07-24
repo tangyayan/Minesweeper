@@ -1,0 +1,13 @@
+# Visual Studio 自动生成文件
+.vs/
+*.ipch
+*.suo
+*.user
+*.obj
+*.pdb
+*.idb
+*.exe
+*.dll
+*.log
+Debug/
+Release/
